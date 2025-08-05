@@ -28,14 +28,8 @@
 
 ## Мои контакты
 
-<div align="center">
-<a href="https://github.com/ArhipSizov" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/arhip-sizov-134555313" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+https://t.me/Arhih1
+arhipsizov47@gmail.com
 
 
 <br/>
@@ -49,3 +43,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhipSizov&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
